@@ -27,7 +27,7 @@ class Client
                 ps.println(s1);
                 s2 = br.readLine();
                 System.out.println("Server says : "+s2);
-                System.out.println("Enter jw message for server : ");
+                System.out.println("Enter  message for server : ");
         }
         s.close();
 
